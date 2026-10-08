@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Target Lab</title>
+  <desc id="desc">Building the Next Generation Solutions.</desc>
+  <rect width="1200" height="630" fill="#f3f2ec"/>
+  <path d="M0 488h1200" stroke="#d2d0c5"/>
+  <circle cx="926" cy="315" r="205" fill="none" stroke="#a7a99c" stroke-dasharray="3 11"/>
+  <circle cx="926" cy="315" r="150" fill="none" stroke="#a7a99c" stroke-dasharray="3 11"/>
+  <circle cx="926" cy="315" r="92" fill="none" stroke="#a7a99c" stroke-dasharray="3 11"/>
+  <path d="m781 215 100 46 91-81 94 76-42 100-84 71-92-42-74-81Z" fill="none" stroke="#778074"/>
+  <path d="m881 261 91 16 52 79-84 71" fill="none" stroke="#a8bb43" stroke-width="2"/>
+  <circle cx="972" cy="277" r="6" fill="#c5dc52"/>
+  <circle cx="1024" cy="356" r="6" fill="#c5dc52"/>
+  <circle cx="940" cy="427" r="6" fill="#c5dc52"/>
+  <circle cx="926" cy="315" r="48" fill="#f3f2ec" stroke="#333932"/>
+  <path d="M926 302v26m-13-13h26" stroke="#252a26" stroke-width="1.5"/>
+  <text x="72" y="95" fill="#5c6259" font-family="monospace" font-size="15" letter-spacing="3">INDEPENDENT TECHNOLOGY COMPANY</text>
+  <text x="62" y="285" fill="#252a26" font-family="Manrope,sans-serif" font-size="143" font-weight="700" letter-spacing="-14">TARGET</text>
+  <text x="62" y="414" fill="#252a26" font-family="Manrope,sans-serif" font-size="143" font-weight="700" letter-spacing="-14">LAB</text>
+  <text x="72" y="548" fill="#252a26" font-family="Manrope,sans-serif" font-size="32" font-weight="600" letter-spacing="-1">Building the Next Generation Solutions.</text>
+</svg>

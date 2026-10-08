@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Target Lab"
+description = "A concise, premium website for Target Lab, an AI-native technology studio that builds intelligent digital solutions and develops its own technology ventures."
+version = "1.0.0"
+id = "artifacts/target-lab"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20551
+
+[services.development]
+run = "pnpm --filter @workspace/target-lab run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/target-lab", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/target-lab/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20551"
+BASE_PATH = "/"

@@ -1,0 +1,2 @@
+- [Target Lab brand direction](target-lab-brand.md) — Present Target Lab as a capable builder of digital solutions and ventures, not a generic consultancy.
+- [GitHub authorization](github-authorization.md) — GitHub App API access and native Git push authorization are separate; recover the source-control connection for push failures.

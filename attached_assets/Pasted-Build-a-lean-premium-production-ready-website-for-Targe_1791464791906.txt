@@ -1,0 +1,431 @@
+Build a lean, premium, production-ready website for Target Lab, an AI-native technology and innovation company.
+
+BRAND
+
+TARGET LAB
+
+Building the Next Generation Solutions.
+
+Target Lab builds AI-native digital solutions, software and technology ventures for businesses, institutions and emerging markets.
+
+Target Lab is both:
+
+A builder of digital and AI-native solutions for organisations
+A technology venture builder developing its own products
+
+Do not position Target Lab as a generic IT consultancy or software outsourcing company.
+
+The brand should feel like a small, highly capable technology studio that can take a problem and build the solution.
+
+WEBSITE OBJECTIVE
+
+This is intentionally a lean website.
+
+Do not overbuild it.
+
+The website's primary purposes are:
+
+Explain what Target Lab does.
+Establish credibility.
+Show the kind of problems we build solutions for.
+Showcase Cush as an existing venture.
+Give prospective clients and partners a simple way to contact us.
+
+The site should be concise, visually strong and easy to navigate.
+
+Do NOT create:
+
+Large corporate dashboards
+Complex tables
+Pricing tables
+Extensive service directories
+Multiple layers of navigation
+Blog infrastructure
+Complex CMS
+Customer portals
+Large case-study databases
+Excessive forms
+
+Build only what is necessary.
+
+SITE STRUCTURE
+
+Use a simple single-page website with optional lightweight pages if genuinely necessary.
+
+Primary navigation:
+
+Home | What We Build | Ventures | About | Contact
+
+The homepage should contain the majority of the experience.
+
+HERO
+
+Large, confident hero.
+
+TARGET LAB
+Building the Next Generation Solutions.
+
+Supporting copy:
+
+Target Lab is an AI-native technology company building intelligent digital solutions and technology ventures for the next generation.
+
+Buttons:
+
+Build With Us
+
+Explore Cush
+
+The hero should have a subtle, sophisticated digital visual.
+
+Do not use robots, brains, circuit boards or generic AI imagery.
+
+WHAT WE BUILD
+
+Keep this section simple.
+
+Headline:
+
+We build what comes next.
+
+Short introduction:
+
+From AI-native applications to intelligent business systems, we turn important problems into practical digital solutions.
+
+Use four simple capability blocks:
+
+AI-Native Development
+
+AI applications, agents, intelligent automation and AI-powered business systems.
+
+Digital Products
+
+Web applications, platforms, APIs and software products.
+
+Data & Intelligence
+
+Data systems, analytics, business intelligence and decision-support tools.
+
+Technology Ventures
+
+We identify important problems and build technology companies and products around them.
+
+Do not turn these into huge service catalogues.
+
+VENTURE
+
+Create a visually distinctive featured venture section.
+
+Built by Target Lab
+CUSH
+
+Cross-border financial identity infrastructure for economically invisible migrants.
+
+Short description:
+
+Cush is building infrastructure that helps people whose economic lives cross borders establish a more portable financial and economic identity.
+
+Button:
+
+Explore Cush
+
+Cush should be presented as a real Target Lab venture and an example of the type of technology Target Lab builds.
+
+Design this section differently from the services section so it feels like a portfolio/venture showcase.
+
+Leave room for additional ventures in the future, but do not create empty placeholder cards.
+
+APPROACH
+
+Keep this very short.
+
+Headline:
+
+Start with the problem.
+
+Copy:
+
+We don't build technology because it is new. We build it because a problem is worth solving.
+
+Then show a simple progression:
+
+Understand → Design → Build → Launch
+
+No elaborate process diagrams.
+
+ABOUT
+
+A concise section.
+
+Headline:
+
+A technology company built to build.
+
+Copy:
+
+Target Lab combines artificial intelligence, software engineering, product thinking and data to create solutions for organisations and markets changing rapidly around us.
+
+We work with organisations that have a problem worth solving and build technology around the opportunity.
+
+Keep this to two or three short paragraphs.
+
+CONTACT
+
+Very simple.
+
+Headline:
+
+Have something worth building?
+
+Copy:
+
+Tell us what you're trying to solve. Let's explore what we can build together.
+
+Primary CTA:
+
+Start a Conversation
+
+Use either:
+
+A simple contact form
+Email link
+Or both
+
+If using a form, keep it minimal:
+
+Name
+Email
+Organisation
+What are you trying to build?
+
+Do not ask for unnecessary information.
+
+FOOTER
+
+Minimal footer.
+
+TARGET LAB
+
+Building the Next Generation Solutions.
+
+Links:
+
+What We Build
+Ventures
+About
+Contact
+
+Include relevant social/company links only where they actually exist.
+
+DESIGN DIRECTION
+
+Target Lab should look premium, technical and understated.
+
+Think:
+
+Technology laboratory
+Product studio
+Engineering company
+Venture builder
+
+Not:
+
+Traditional IT company
+Marketing agency
+Generic SaaS startup
+AI hype website
+
+Use:
+
+Large typography
+Strong visual hierarchy
+Generous whitespace
+Minimal navigation
+Subtle motion
+Clean grids
+Abstract technology-inspired graphics
+High-quality typography
+Refined interactions
+
+The website should feel confident without trying too hard.
+
+Avoid excessive gradients and visual effects.
+
+Avoid generic stock photography.
+
+Avoid AI clichés.
+
+COLOUR & TYPOGRAPHY
+
+Create a distinctive but restrained visual identity.
+
+Use a primarily neutral palette with one carefully selected accent colour.
+
+Typography should be modern, highly legible and editorial.
+
+The word TARGET LAB should have a strong typographic presence.
+
+The tagline:
+
+Building the Next Generation Solutions.
+
+should be one of the most visually important elements on the site.
+
+RESPONSIVENESS
+
+The site must work exceptionally well on:
+
+Desktop
+Tablet
+Mobile
+
+Mobile should not simply be a compressed desktop version.
+
+Typography, spacing and navigation should be intentionally designed for small screens.
+
+TECHNOLOGY
+
+Use:
+
+Next.js
+TypeScript
+Tailwind CSS
+React
+Vercel
+
+Keep the codebase lean.
+
+Do not install libraries unless they provide a genuine benefit.
+
+Use reusable components where appropriate, but don't over-engineer the application.
+
+GITHUB
+
+The GitHub repository is the source of truth.
+
+Use clean, maintainable code.
+
+Before modifying the project:
+
+Inspect the repository.
+Understand the existing structure.
+Preserve working functionality.
+Make changes incrementally.
+
+After changes:
+
+Run the build.
+Run lint/type checks where available.
+Fix errors before considering the work complete.
+
+Use clear Git commits.
+
+VERCEL
+
+The website will be deployed through Vercel from GitHub.
+
+Ensure the project can deploy cleanly through Vercel.
+
+Do not rely on local-only functionality.
+
+Keep environment variables out of the repository.
+
+PERFORMANCE
+
+Prioritise:
+
+Fast loading
+Minimal JavaScript
+Optimised images
+Good accessibility
+Good Core Web Vitals
+SEO fundamentals
+
+Implement only essential metadata:
+
+Title
+Description
+Open Graph image
+Favicon
+Robots
+Sitemap
+
+Do not build an elaborate SEO system.
+
+SEO
+
+Target Lab should naturally communicate relevance around:
+
+AI-native development
+AI solutions
+software development
+digital products
+AI agents
+business automation
+technology ventures
+digital innovation
+
+Do not keyword stuff.
+
+CONTENT PRINCIPLES
+
+Write like a serious technology company.
+
+Use short, confident sentences.
+
+Avoid:
+
+"leveraging cutting-edge technology"
+
+"revolutionising the digital landscape"
+
+"unlocking unprecedented value"
+
+"transformative synergies"
+
+"world-class solutions"
+
+Use direct language.
+
+Examples:
+
+We build intelligent systems for problems that matter.
+
+We start with the problem, not the technology.
+
+We don't just advise on what's next. We build it.
+
+IMPORTANT
+
+Do not invent:
+
+Clients
+Partnerships
+Awards
+Statistics
+Testimonials
+Revenue
+Certifications
+Team members
+Offices
+
+Do not make Target Lab appear larger than it currently is.
+
+The brand should communicate capability rather than size.
+
+The final site should feel like a company that is small enough to move quickly and capable enough to build serious technology.
+
+FINAL IMPRESSION
+
+When someone visits Target Lab, within 10 seconds they should understand:
+
+Target Lab builds next-generation digital and AI solutions.
+
+Within 30 seconds they should understand:
+
+Target Lab also creates its own technology ventures.
+
+And after exploring the site they should think:
+
+"I have a problem. These are the people I should talk to."
+
+Build the website around that outcome.
